@@ -1,0 +1,19 @@
+
+html, body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+img {
+    height: 100vh;
+}
+
+svg {
+  height: 100vh;
+}
+
+a {
+  /*cursor: url("arrow.png"),auto;*/
+}

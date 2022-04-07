@@ -11,7 +11,7 @@ html, body {
   height: 100%;
   color: black;
   pointer-events: none;
-  animation: fadeOut 4s;
+  animation: fadeOut 6s;
   animation-iteration-count: 1;
   animation-fill-mode: forwards;
 }
